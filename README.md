@@ -41,7 +41,6 @@ Open <http://127.0.0.1:8000> for the web app or <http://127.0.0.1:8000/docs> for
 ## Documentation
 
 - `docs/governance/`: Phase 0 decisions, risks, and acceptance gates
-- `docs/data_source_decision.md`: dataset provenance and selection
 - `docs/data_dictionary.md`: analytical variables and derivations
 - `docs/phase2_3_report.md`: cohort, EDA, split, and feature-selection results
 - `docs/app_input_spec.md`: provisional web/Android form and interaction design
