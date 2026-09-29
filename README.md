@@ -40,7 +40,7 @@ Open <http://127.0.0.1:8000> for the web app or <http://127.0.0.1:8000/docs> for
 
 ## Documentation
 
-- `docs/governance/`: Phase 0 decisions, risks, and acceptance gates
+- `docs/governance/`: Decisions, risks, and acceptance gates
 - `docs/data_dictionary.md`: analytical variables and derivations
 - `deployment/model/`: promoted local model and tracked provenance manifest
 - `deployment/api/`: FastAPI entry point, container definition, and OpenAPI contract
