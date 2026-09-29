@@ -42,17 +42,12 @@ Open <http://127.0.0.1:8000> for the web app or <http://127.0.0.1:8000/docs> for
 
 - `docs/governance/`: Phase 0 decisions, risks, and acceptance gates
 - `docs/data_dictionary.md`: analytical variables and derivations
-- `docs/phase2_3_report.md`: cohort, EDA, split, and feature-selection results
-- `docs/app_input_spec.md`: provisional web/Android form and interaction design
-- `docs/model_card.md`: promoted-model evidence, limitations, and subgroup results
-- `docs/phase4_5_report.md`: model-selection and API implementation report
 - `deployment/model/`: promoted local model and tracked provenance manifest
 - `deployment/api/`: FastAPI entry point, container definition, and OpenAPI contract
 - `web/` and `android/`: user clients
 - `docs/user_guide.md`: API, web, Android, and deployment instructions
 - `docs/version_control_reproducibility_lineage.md`: Git/release and artifact lineage controls
 - `docs/copyright_licensing_attribution_privacy.md`: rights, attribution, and privacy decisions
-- `docs/operations_runbook.md`: deployment, monitoring, rollback, and incident procedure
 
 ## License
 
