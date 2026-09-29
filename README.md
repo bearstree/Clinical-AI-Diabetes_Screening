@@ -40,7 +40,6 @@ Open <http://127.0.0.1:8000> for the web app or <http://127.0.0.1:8000/docs> for
 
 ## Documentation
 
-- `notebooks/01_end_to_end_clinical_ai_workflow.ipynb`: overall roadmap
 - `docs/governance/`: Phase 0 decisions, risks, and acceptance gates
 - `docs/data_source_decision.md`: dataset provenance and selection
 - `docs/data_dictionary.md`: analytical variables and derivations
