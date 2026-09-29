@@ -1,4 +1,4 @@
-# 8. Copyright, licensing, attribution, and privacy
+# Copyright, licensing, attribution, and privacy
 
 ## Rights and licenses
 
